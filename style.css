@@ -7,7 +7,7 @@
 }
 @font-face {
     font-family: carto;
-    src: url('/Fonts/cartograph-cf/CartographCF-Bold.ttf');
+    src: url('../Fonts/cartograph-cf/CartographCF-Bold.ttf');
 }
 
 *{
