@@ -109,7 +109,7 @@ body{
     box-shadow: 0 0 0 0 transparent;
 }
 .apply-but:hover a::after{
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 @keyframes pulse{
     0%{
